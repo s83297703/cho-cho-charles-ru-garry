@@ -1,155 +1,123 @@
 { "ADS":
     {
   
+       "cpa_image":"yandex",
+      "cpa_title":"yandex",
+      "cpa_sous_title":"yandex",
+      "cpa_url":"yandex",
+      "show_cpa":false,
+
+      "image_silder1":"https://wallpaper.dog/large/20487356.jpg",
+      "image_silder2":"https://wallpaper.dog/large/20487356.jpg",
+      "image_silder3":"https://wallpaper.dog/large/20487356.jpg",
+        
+        
+      "banner_type":"yandex",
+      "inter_type":"yandex",
+      "native_type":"yandex",
+      "reward_type":"yandex",
+      
+
+      "ironsource_id":"jhd78302",
+      "unity_id":"87320283",
      
 
-      "banner_type_1":"admob",
-      "inter_type_1":"admob",
-      "inter_or_reward_1":"inter",
-      "native_type_1":"admob",
-      "reward_type_1":"admob",
-      "native_or_mrec_1":"native",
+      "banner_yandex":"R-M-2162874-1",
+      "native_yandex":"R-M-2162874-2",
+      "interstitial_yandex":"R-M-2162874-3",
+      "rewarde_yandex":"R-M-2162874-4",
 
-      "banner_type_2":"admob",
-      "inter_type_2":"admob",
-      "inter_or_reward_2":"inter",
-      "native_type_2":"admob",
-      "reward_type_2":"admob",
-      "native_or_mrec_2":"native",
+      "openapp_admob":"ca-app-pub-3940256099942544/3419835294",
+       "banner_admob":"ca-app-pub-3940256099942544/6300978111",
+      "native_admob":"ca-app-pub-3940256099942544/2247696110",
+      "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
+      "rewarde_admob":"ca-app-pub-3940256099942544/5354046379",
 
-     "banner_type_3":"admob",
-      "inter_type_3":"admob",
-      "inter_or_reward_3":"inter",
-      "native_type_3":"admob",
-      "reward_type_3":"admob",
-      "native_or_mrec_3":"native",
+      "applovin_banner":"R-M-DEMO-300x50",
+      "applovin_interstitial":"R-M-DEMO-interstitial",
+      "applovin_reward":"R-M-DEMO-native-i",
+      "applovin_native":"R-M-DEMO-300x50",
 
-      "banner_type_4":"admob",
-      "inter_type_4":"admob",
-      "inter_or_reward_4":"inter",
-      "native_type_4":"admob",
-      "reward_type_4":"admob",
-      "native_or_mrec_4":"native",
+      "facebook_banner":"R-M-DEMO-interstitial",
+      "facebook_interstitial":"R-M-DEMO-native-i",
+      "facebook_reward":"R-M-DEMO-300x50",
+      "facebook_native":"R-M-DEMO-interstitial"
 
-       "banner_type_5":"admob",
-      "inter_type_5":"admob",
-      "inter_or_reward_5":"inter",
-      "native_type_5":"admob",
-      "reward_type_5":"admob",
-      "native_or_mrec_5":"native",
-
-     
-
-      "ironsource_id":"ca-app-pub56099942",
-      "unity_id":"ca-app-pub56099942",
-
-
-     
-
-      "banner_id_1":"ca-app-pub-3940256099942544/6300978111",
-      "interstitial_id_1":"ca-app-pub-3940256099942544/1033173712",
-      "reward_id_1":"ca-app-pub-3940256099942544/5354046379",
-      "mrec_id_1":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_1":"ca-app-pub-3940256099942544/2247696110",
-    
-
-      "banner_id_2":"ca-app-pub-3940256099942544/6300978111",
-      "interstitial_id_2":"ca-app-pub-3940256099942544/1033173712",
-      "reward_id_2":"ca-app-pub-3940256099942544/5354046379",
-      "mrec_id_2":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_2":"ca-app-pub-3940256099942544/2247696110",
-    
-      "banner_id_3":"ca-app-pub-3940256099942544/6300978111",
-      "interstitial_id_3":"ca-app-pub-3940256099942544/1033173712",
-      "reward_id_3":"ca-app-pub-3940256099942544/5354046379",
-      "mrec_id_3":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_3":"ca-app-pub-3940256099942544/2247696110",
-    
-      "banner_id_4":"ca-app-pub-3940256099942544/6300978111",
-      "interstitial_id_4":"ca-app-pub-3940256099942544/1033173712",
-      "reward_id_4":"ca-app-pub-3940256099942544/5354046379",
-      "mrec_id_4":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_4":"ca-app-pub-3940256099942544/2247696110",
-    
-
-     "banner_id_5":"ca-app-pub-3940256099942544/6300978111",
-      "interstitial_id_5":"ca-app-pub-3940256099942544/1033173712",
-      "reward_id_5":"ca-app-pub-3940256099942544/5354046379",
-      "mrec_id_5":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_5":"ca-app-pub-3940256099942544/2247696110"
-    
   
     },
-    "guideData": [
+    "skins": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
-
+      "imageUrl": "https://iili.io/H5zmFKQ.jpg",
+      "title": "Mod pack 1",
+      "likeNumbers": "2522 LIKES",
+      "commentNumbers": " 3303 COMMENTS",
+      "downloadNumbers": "4454 DOWNLOADS",
+      "description": "TO Download this Mod Game Please Click In The Buton Bellow."
+       
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
-
-
+      "imageUrl": "https://iili.io/H5zbyNe.jpg",
+      "title": "Mod pack 2",
+      "likeNumbers": "2262 LIKES",
+      "commentNumbers": " 3133 COMMENTS",
+      "downloadNumbers": "4244 DOWNLOADS",
+      "description": "TO Download this Mod Game Please Click In The Buton Bellow."
+       
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
-
-
+      "imageUrl": "https://iili.io/H5zmdVj.jpg",
+      "title": "Mod pack 3",
+      "likeNumbers": "2252 LIKES",
+      "commentNumbers": " 3933 COMMENTS",
+      "downloadNumbers": "4844 DOWNLOADS",
+      "description": "TO Download this Mod Game Please Click In The Buton Bellow."
+       
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
-
-
-
-      
-    },
-    {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
-
+      "imageUrl": "https://iili.io/H5zbDSS.jpg",
+      "title": "Mod pack 4",
+      "likeNumbers": "2922 LIKES",
+      "commentNumbers": " 3233 COMMENTS",
+      "downloadNumbers": "4464 DOWNLOADS",
+      "description": "TO Download this Mod Game Please Click In The Buton Bellow."
+       
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
-
-
-
-      
+      "imageUrl": "https://iili.io/H5zmKlV.jpg",
+      "title": "Mod pack 5",
+      "likeNumbers": "8222 LIKES",
+      "commentNumbers": " 3353 COMMENTS",
+      "downloadNumbers": "4474 DOWNLOADS",
+      "description": "TO Download this Mod Game Please Click In The Buton Bellow."
+       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
-
-
-
-      
+      "imageUrl": "https://iili.io/H5zmfUB.jpg",
+      "title": "Mod pack 6",
+      "likeNumbers": "2022 LIKES",
+      "commentNumbers": " 3331 COMMENTS",
+      "downloadNumbers": "4244 DOWNLOADS",
+      "description": "TO Download this Mod Game Please Click In The Buton Bellow."
+     
+    },
+    {
+      "imageUrl": "https://iili.io/H5zmBHP.jpg",
+      "title": "Mod pack 7",
+      "likeNumbers": "2722 LIKES",
+      "commentNumbers": " 393 COMMENTS",
+      "downloadNumbers": "4454 DOWNLOADS",
+      "description": "TO Download this Mod Game Please Click In The Buton Bellow."
+       
     }
   ], "Apps": [
     {
@@ -208,4 +176,5 @@
 
     }
   ]
+ 
   }
